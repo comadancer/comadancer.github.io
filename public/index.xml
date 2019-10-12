@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo demo</title>
+    <link>http://example.org/</link>
+    <description>Recent content on hugo demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Oct 2019 23:50:52 +0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 12 Oct 2019 23:50:52 +0300</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description> Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.
+&amp;ndash; G.K. Chesterton
+ </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://example.org/posts/first/</link>
+      <pubDate>Sat, 12 Oct 2019 23:50:52 +0300</pubDate>
+      
+      <guid>http://example.org/posts/first/</guid>
+      <description> If a design is taking to long, then the design is wrong!
+&amp;ndash; Elon Musk
+ </description>
+    </item>
+    
+  </channel>
+</rss>
